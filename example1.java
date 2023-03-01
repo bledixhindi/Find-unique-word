@@ -2,7 +2,7 @@ package data;
 
 import java.util.*;
 
-public class example1 {
+public class findUniqueWord {
 	
 	 public static List<String> findUnique(List<String> list){
 		 
